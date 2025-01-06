@@ -1,0 +1,9 @@
+theme = Hardcore 
+
+window-height = 40
+window-width = 140
+
+background-opacity = 0.9
+
+font-size = 18
+font-thicken = true
